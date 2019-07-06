@@ -17,5 +17,4 @@ yolo_model.py - define yolo model
 
 yolo_training.py - training yolo model
 
-## This repository does not provide data for reproduction.
  
